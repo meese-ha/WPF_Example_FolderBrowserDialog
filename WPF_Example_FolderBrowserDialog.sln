@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPF_Example_FolderBrowserDialog", "WPF_Example_FolderBrowserDialog\WPF_Example_FolderBrowserDialog.csproj", "{9AE8287F-B2AC-48A8-AEBD-546DE79E80E8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9AE8287F-B2AC-48A8-AEBD-546DE79E80E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9AE8287F-B2AC-48A8-AEBD-546DE79E80E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9AE8287F-B2AC-48A8-AEBD-546DE79E80E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9AE8287F-B2AC-48A8-AEBD-546DE79E80E8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {05346B91-346E-495F-9CFE-1247B513DE54}
+	EndGlobalSection
+EndGlobal
